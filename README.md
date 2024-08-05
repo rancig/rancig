@@ -13,15 +13,6 @@
 
 </div>
 
-## 📈 My GitHub stats
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
-  </p>
-</div>
-
 ## 📃 I love documentation
 
 Not many developers like to write documentation. I do though. I believe that a well-documented codebase is as important as the code itself. Its like a story telling what the code can do and how it does it. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
