@@ -1,9 +1,3 @@
-<div class="github-introduction">
-</div>
-
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:code@aar.one">email.</a>
-- 💬 Curious? Just ask!
-
 <div class="badges-intro">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
